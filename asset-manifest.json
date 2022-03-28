@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Learning-React-Typescript-Application/static/css/main.e6c13ad2.css",
+    "main.js": "/Learning-React-Typescript-Application/static/js/main.8ee6976b.js",
+    "static/js/787.fda8e7a5.chunk.js": "/Learning-React-Typescript-Application/static/js/787.fda8e7a5.chunk.js",
+    "index.html": "/Learning-React-Typescript-Application/index.html",
+    "main.e6c13ad2.css.map": "/Learning-React-Typescript-Application/static/css/main.e6c13ad2.css.map",
+    "main.8ee6976b.js.map": "/Learning-React-Typescript-Application/static/js/main.8ee6976b.js.map",
+    "787.fda8e7a5.chunk.js.map": "/Learning-React-Typescript-Application/static/js/787.fda8e7a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8ee6976b.js"
+  ]
+}
